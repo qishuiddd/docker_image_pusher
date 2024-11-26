@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 ros:rolling-ros-base-noble
 ros:rolling-ros-base
+ros:rolling-perception-noble
