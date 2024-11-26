@@ -3,3 +3,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 amd64/ros:rolling-perception-noble
+python:3.14.0a2-bullseye
